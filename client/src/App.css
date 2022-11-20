@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+
+}
+
+.MuiList-root{
+  width: 1200px;
+}
+
+#buttonfont{
+  font-style:Verdana, sans-serif;
+}
+
+.MuiListItem-root {
+  margin-left: -55px;
+  width: 1200px;
+}
+
+#listData{
+  justify-content: center;
+}
+
+/* #foot{
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -200px;
+} */
+
+#headerData{
+  padding: 20px;
+  font-size: 20px;
+  background-color: #1565c0;
+  color: white;
+  border-radius: 20px;
+  outline: none;
+  border: none;
+}
+
+#btnDiv{
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+  
+}
+
+#btnDiv button{
+  cursor: pointer;
+  border-bottom: 200px;
+}
+
+#headercolor{
+  color: blueviolet;
+}
+
+#header1{
+  color: rgb(247, 141, 48);
+}
